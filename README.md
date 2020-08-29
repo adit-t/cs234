@@ -1,2 +1,3 @@
-# cs234
-My projects/programs for CS234 course (Winter 2019)
+# CS234
+
+Code I write while taking [CS234 course](http://web.stanford.edu/class/cs234/CS234Win2019/index.html)
